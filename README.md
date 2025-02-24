@@ -1,4 +1,4 @@
-# Libreria per gli alberi binari
+# Libreria per gli alberi binari in C
 
 >[!WARNING]
 > Questo codice entra completamente fra le prime mille righe di codice che io abbia mai scritto. <br>
